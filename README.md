@@ -30,5 +30,4 @@ cd kinWeb
 php kinweb.php
 ```
 
-# support
-<a href="https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ"><img src="https://img.shields.io/badge/subcribe-YouTube-red.svg"> <a href="https://t.me/Msambari"><img src="https://img.shields.io/badge/telegram-Ms.ambari-blue.svg">
+
